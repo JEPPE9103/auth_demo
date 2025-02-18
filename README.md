@@ -16,24 +16,24 @@ A simple user authentication system built with Node.js and Express. Users can re
 ## Installation 🛠
 
 ### 1️⃣ Clone the repository  
-``
+``sh
 git clone https://github.com/JEPPE9103/auth_demo.git
 cd auth_demo
 
 ### 2️⃣ Install dependencies
-``
+``sh
 Kopiera
 Redigera
 npm install
 
 ### 3️⃣ Start the server
-`` 
+``sh 
 Kopiera
 Redigera
 npm start
 
 ### 4️⃣ Open in your browser
-``
+``sh
 Kopiera
 Redigera
 http://localhost:3000
