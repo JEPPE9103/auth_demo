@@ -1,45 +1,54 @@
-# Auth Demo 🚀  
+# Auth Demo 🚀
+
 A simple user authentication system built with Node.js and Express. Users can register, log in, and log out with JSON-based storage.
 
 ---
 
 ## Features 🌟
-- ✅ **User registration** with form validation
-- ✅ **Secure login** with email & password
-- ✅ **Session handling** using JSON storage
-- ✅ **Express.js** backend with Body-parser
-- ✅ Clean **HTML/CSS** frontend
+- ✅ **User registration** with form validation  
+- ✅ **Secure login** with email & password  
+- ✅ **Session handling** using JSON storage  
+- ✅ **Express.js backend** with Body-parser  
+- ✅ **Clean HTML/CSS frontend**  
 
 ---
 
 ## Installation 🛠
-```
-# 1. Clone repo & enter directory
+
+### 1️⃣ Clone the repository  
+``
 git clone https://github.com/JEPPE9103/auth_demo.git
 cd auth_demo
 
-```
-# 2. Install dependencies
+### 2️⃣ Install dependencies
+``
+Kopiera
+Redigera
 npm install
 
-``
-# 3. Start server
+### 3️⃣ Start the server
+`` 
+Kopiera
+Redigera
 npm start
-arduino
-Copy
-Access at: http://localhost:3000
-How it Works ⚙️
-Copy
-- Registration via register.html
-- Credentials stored in data.json
-- Successful login → redirect to welcome.html
-- Logout button returns to homepage.html
-Roadmap 🚧
-Copy
-🗄️ Real database integration
-🔐 Bcrypt password hashing
-🔑 JWT authentication
-🛡️ CSRF protection
-License 📜
-Copy
-MIT License - Open source, free to use/modify
+
+### 4️⃣ Open in your browser
+``
+Kopiera
+Redigera
+http://localhost:3000
+
+## How it Works ⚙️
+📝 - Users register through register.html
+🔐 - Login credentials are stored in data.json
+✅ - Successful login → Redirects to welcome.html
+🚪 - Logout button returns to homepage.html
+
+## Future Improvements 🚧
+🗃️ - Use a real database instead of JSON storage
+🔒 - Implement password hashing using bcrypt
+🔑 - Add JWT token authentication
+🛡️ - Improve security with CSRF protection
+
+## License 📜
+MIT License - Open-source, free to use and modify.
