@@ -18,7 +18,6 @@ A simple user authentication system built with Node.js and Express. Users can re
 ### 1️⃣ Clone the repository  
 ```sh
 git clone https://github.com/JEPPE9103/auth_demo.git
-cd auth_demo
 ```
 
 ### 2️⃣ Install dependencies
