@@ -43,16 +43,21 @@ http://localhost:3000
 ```
 
 ## How it Works ⚙️
-📝 - Users register through register.html
-🔐 - Login credentials are stored in data.json
-✅ - Successful login → Redirects to welcome.html
-🚪 - Logout button returns to homepage.html
+- 📝 **Users register** through `register.html`
+- 🔐 **Login credentials** are stored in `data.json`
+- ✅ **Successful login** → Redirects to `welcome.html`
+- 🚪 **Logout button** redirects back to `homepage.html`
+
+---
 
 ## Future Improvements 🚧
-🗃️ - Use a real database instead of JSON storage
-🔒 - Implement password hashing using bcrypt
-🔑 - Add JWT token authentication
-🛡️ - Improve security with CSRF protection
+- 🗃️ **Use a real database instead of JSON storage**
+- 🔒 **Implement password hashing using bcrypt**
+- 🔑 **Add JWT token authentication**
+- 🛡️ **Improve security with CSRF protection**
+
+---
 
 ## License 📜
-MIT License - Open-source, free to use and modify.
+**MIT License** - Open-source, free to use and modify.
+
