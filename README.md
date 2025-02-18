@@ -2,6 +2,8 @@
 
 A simple user authentication system built with Node.js and Express. Users can register, log in, and log out with JSON-based storage.
 
+---
+
 ## Features 🌟
 - ✅ User registration with form validation
 - ✅ Login with email & password
@@ -9,25 +11,24 @@ A simple user authentication system built with Node.js and Express. Users can re
 - ✅ Express.js & Body-parser for backend
 - ✅ HTML/CSS frontend
 
-## Installation 🛠
-1. **Clone the repository**  
-   ```sh
-   git clone https://github.com/JEPPE9103/auth_demo.git
-   cd auth_demo
-Install dependencies
+---
 
+## Installation 🛠
+### 1️⃣ Clone the repository  
+```sh
+git clone https://github.com/JEPPE9103/auth_demo.git
+cd auth_demo
+2️⃣ Install dependencies
 sh
 Kopiera
 Redigera
 npm install
-Start the server
-
+3️⃣ Start the server
 sh
 Kopiera
 Redigera
 npm start
-Open in your browser:
-
+4️⃣ Open in your browser
 arduino
 Kopiera
 Redigera
