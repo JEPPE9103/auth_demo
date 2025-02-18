@@ -33,21 +33,6 @@ arduino
 Kopiera
 Redigera
 http://localhost:3000
-Folder Structure 📁
-php
-Kopiera
-Redigera
-auth_demo/
-│── public/            # All frontend files
-│   ├── homepage.html  # Login page
-│   ├── register.html  # Registration page
-│   ├── welcome.html   # Welcome page after login
-│   ├── styles.css     # Styling
-│── server/            # Backend code
-│   ├── server.js      # Express server
-│── .gitignore         # Ignore unnecessary files
-│── package.json       # Project dependencies
-│── README.md          # Documentation
 How it Works ⚙️
 Users register through register.html, and data is stored in data.json.
 Users log in through homepage.html, and if credentials match, they are redirected to welcome.html.
