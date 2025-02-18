@@ -23,22 +23,16 @@ cd auth_demo
 
 ### 2️⃣ Install dependencies
 ```sh
-Kopiera
-Redigera
 npm install
 ```
 
 ### 3️⃣ Start the server
 ```sh 
-Kopiera
-Redigera
 npm start
 ```
 
 ### 4️⃣ Open in your browser
 ```sh
-Kopiera
-Redigera
 http://localhost:3000
 ```
 
